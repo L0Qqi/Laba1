@@ -1,0 +1,8 @@
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\bin\Debug\Лаба №1.exe.config
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\bin\Debug\Лаба №1.exe
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\bin\Debug\Лаба №1.pdb
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\obj\Debug\Тумаков.csproj.AssemblyReference.cache
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\obj\Debug\Тумаков.csproj.SuggestedBindingRedirects.cache
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\obj\Debug\Тумаков.csproj.CoreCompileInputs.cache
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\obj\Debug\Лаба №1.exe
+C:\Users\loqi\source\repos\Лаба №1\Лаба №1\obj\Debug\Лаба №1.pdb

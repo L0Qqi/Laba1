@@ -1,0 +1,8 @@
+C:\Users\loqi\source\repos\Лаба №1\Дз\bin\Debug\Дз.exe.config
+C:\Users\loqi\source\repos\Лаба №1\Дз\bin\Debug\Дз.exe
+C:\Users\loqi\source\repos\Лаба №1\Дз\bin\Debug\Дз.pdb
+C:\Users\loqi\source\repos\Лаба №1\Дз\obj\Debug\Дз.csproj.AssemblyReference.cache
+C:\Users\loqi\source\repos\Лаба №1\Дз\obj\Debug\Дз.csproj.SuggestedBindingRedirects.cache
+C:\Users\loqi\source\repos\Лаба №1\Дз\obj\Debug\Дз.csproj.CoreCompileInputs.cache
+C:\Users\loqi\source\repos\Лаба №1\Дз\obj\Debug\Дз.exe
+C:\Users\loqi\source\repos\Лаба №1\Дз\obj\Debug\Дз.pdb
